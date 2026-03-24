@@ -1,3 +1,11 @@
+import { Calculator } from "./calculator";
+
+document.addEventListener("DOMContentLoaded", () => {
+    const cals = new Calculator();
+    cals.init();
+})
+
+
 const display = document.getElementById("display");
 const buttons = document.querySelectorAll("button");
 const clearBtn = document.getElementById("clear");
