@@ -1,8 +1,8 @@
-import { Calculator } from "./calculator";
+import { Calculator } from "./calculator.js";
 
 document.addEventListener("DOMContentLoaded", () => {
-    const cals = new Calculator();
-    cals.init();
+    const calс = new Calculator();
+    calс.init();
 })
 
 
