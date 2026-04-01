@@ -29,11 +29,11 @@ input {
 }
 .clear-btn {
     padding: 8px 15px;
-    background: #f13d30;
+    background: #a00909;
     color: white;
     border: none;
     margin-top: 10px;
 }
 .clear-btn:hover {
-    background: #da190b;
+    background: #da0b0b;
 }
